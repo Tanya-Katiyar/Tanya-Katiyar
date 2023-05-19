@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tanya-katiyar-513594203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-katiyar-513594203" height="30" width="40" /></a>
 <a href="https://instagram.com/tanya__0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanya__0803" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tanya_katiyar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tanya_katiyar201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanya_katiyar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tanya_katiyar201" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5121bt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5121bt" height="30" width="40" /></a>
 </p>
 
