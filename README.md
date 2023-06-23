@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-katiyar&show_icons=true&locale=en" alt="tanya-katiyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-katiyar&" alt="tanya-katiyar" /></p>
-[![trophy](https://github-trophies.vercel.app/?username=Tanya-Katiyar)](https://github.com/Tanya-Katiyar)
+
 
