@@ -3,7 +3,9 @@
 <h3 align="center">An aspiring software engineer from India</h3>
 <img align="right" alt="coding picture" width="320" height="280" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></img>
 
-- 🌱 I’m currently learning **ReactJS, MERN**
+- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m focused on mastering **C++**
+- 🌱 I’m also working on **ReactJS, MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
